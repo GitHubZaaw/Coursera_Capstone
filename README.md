@@ -1,2 +1,2 @@
 # Coursera_Capstone
-qqqqqqqq
+This is the final assignment for capstone project.
